@@ -1,2 +1,2 @@
-# powerbi
+# PowerBi
 Dashboard using PowerBi
